@@ -7,6 +7,9 @@ MM-AVS is a full-scale multimodal dataset comprehensively gathering documents, s
 
 We're sharing them here for developers and researchers to explore, study, and learn from. 
 
+## Preparation
+Given the dataset is quite large, please download the demo firstly to make sure the dataset meets your requirement.
+
 ## Download
 Download files include cnn.zip, dailymail.zip, train_id.txt and test_id.txt
 
@@ -20,7 +23,10 @@ link：https://pan.baidu.com/s/1I7b18ddgvVvPmb3okaRzpQ
 
 password：uwbt 
 
-Note: Videos are always limited by network disk, we recommend to method1.
+Note: Videos are always limited by network disk, we recommend to method1. 
+
+## Extension
+The data scale is determined by its accompanied videos, considering this modality is more space-consuming than the other. The data acquirability code can be used for dataset extension.
 
 ## Citations
 
