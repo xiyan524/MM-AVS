@@ -11,14 +11,14 @@ We're sharing them here for developers and researchers to explore, study, and le
 Given the dataset is quite large, please download the demo firstly to make sure the dataset meets your requirement.
 
 ## Download
-Download files include cnn.zip, dailymail.zip, train_id.txt and test_id.txt
-~~**Method1: FTP**
-ftp://45.77.122.178/pub/file_name (i.e., file_name->cnn.zip)~~
+Download files include cnn.zip, dailymail.zip, train_id.txt and test_id.txt  
+~~**Method1: FTP**  
+ftp://45.77.122.178/pub/file_name (i.e., file_name->cnn.zip)~~  
 **invalid: this server is not rented anymore in our lab**
 
-~~**Method2: Baidu Yun**
-link：https://pan.baidu.com/s/1I7b18ddgvVvPmb3okaRzpQ 
-password：uwbt~~
+~~**Method2: Baidu Yun**  
+link：https://pan.baidu.com/s/1I7b18ddgvVvPmb3okaRzpQ   
+password：uwbt~~  
 **invalid: Baidu forbid**
 
 **Method3: OneDrive**
